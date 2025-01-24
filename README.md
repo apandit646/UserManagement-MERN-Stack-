@@ -1,4 +1,4 @@
-                                                            # 🛠️ **User Management Application*
+                                             # 🛠️ **User Management Application*
 ---
 
 # 🛠️ **Frontend for User Management Application**  

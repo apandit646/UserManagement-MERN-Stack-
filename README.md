@@ -189,7 +189,4 @@ We welcome all suggestions, improvements, and bug fixes! Open an issue or submit
 
 ---  
 
-## 📜 **License**  
-This project is licensed under the **MIT License**.  
-
 Happy coding! 🚀
